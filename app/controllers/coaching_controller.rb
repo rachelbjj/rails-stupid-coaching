@@ -5,6 +5,7 @@ class CoachingController < ApplicationController
   end
 
   def ask
+
   end
 
   private
